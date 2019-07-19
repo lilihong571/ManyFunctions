@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT" />
+        </compositeConfiguration>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AnimationDrawable" />
+            <option value="$PROJECT_DIR$/Dialog_5" />
+            <option value="$PROJECT_DIR$/Dialog_my" />
+            <option value="$PROJECT_DIR$/Gridview_flower" />
+            <option value="$PROJECT_DIR$/PickViewOne" />
+            <option value="$PROJECT_DIR$/PickViewThree" />
+            <option value="$PROJECT_DIR$/PickViewTwo" />
+            <option value="$PROJECT_DIR$/RecyclerViewHor" />
+            <option value="$PROJECT_DIR$/RecyclerViewLinearInsert" />
+            <option value="$PROJECT_DIR$/RecyclerViewNet" />
+            <option value="$PROJECT_DIR$/RecyclerViewPubu" />
+            <option value="$PROJECT_DIR$/YuanRoundRect" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

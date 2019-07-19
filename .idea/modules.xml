@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AllFuctions.iml" filepath="$PROJECT_DIR$/AllFuctions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnimationDrawable/AnimationDrawable.iml" filepath="$PROJECT_DIR$/AnimationDrawable/AnimationDrawable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dialog_5/Dialog_5.iml" filepath="$PROJECT_DIR$/Dialog_5/Dialog_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dialog_my/Dialog_my.iml" filepath="$PROJECT_DIR$/Dialog_my/Dialog_my.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gridview_flower/Gridview_flower.iml" filepath="$PROJECT_DIR$/Gridview_flower/Gridview_flower.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PickViewOne/PickViewOne.iml" filepath="$PROJECT_DIR$/PickViewOne/PickViewOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PickViewThree/PickViewProvince.iml" filepath="$PROJECT_DIR$/PickViewThree/PickViewProvince.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PickViewThree/PickViewThree.iml" filepath="$PROJECT_DIR$/PickViewThree/PickViewThree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PickViewTwo/PickViewTwo.iml" filepath="$PROJECT_DIR$/PickViewTwo/PickViewTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerViewHor/RecyclerViewHor.iml" filepath="$PROJECT_DIR$/RecyclerViewHor/RecyclerViewHor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerViewLinearInsert/RecyclerViewLinearInsert.iml" filepath="$PROJECT_DIR$/RecyclerViewLinearInsert/RecyclerViewLinearInsert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerViewNet/RecyclerViewNet.iml" filepath="$PROJECT_DIR$/RecyclerViewNet/RecyclerViewNet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerViewPubu/RecyclerViewPubu.iml" filepath="$PROJECT_DIR$/RecyclerViewPubu/RecyclerViewPubu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YuanRoundRect/YuanRoundRect.iml" filepath="$PROJECT_DIR$/YuanRoundRect/YuanRoundRect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerViewLinearInsert/recyclerviewlinear.iml" filepath="$PROJECT_DIR$/RecyclerViewLinearInsert/recyclerviewlinear.iml" />
+    </modules>
+  </component>
+</project>
